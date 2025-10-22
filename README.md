@@ -127,41 +127,71 @@ const HanzzKT = {
 
 ## 📊 GitHub Statistics
 
+<!-- Futuristic Stats Container with Special Effects -->
+<div align="center" style="position: relative; background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 50%, #0D1117 100%); padding: 40px 20px; border-radius: 20px; box-shadow: 0 0 50px rgba(139, 92, 246, 0.6), inset 0 0 30px rgba(139, 92, 246, 0.1); border: 3px solid transparent; background-clip: padding-box; position: relative;">
+  
+  <!-- Glowing Header Animation -->
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header&text=&fontSize=0" width="100%"/>
+  </p>
+  
+  <!-- Futuristic Title with Glow -->
+  <h3 align="center" style="color: #8B5CF6; text-shadow: 0 0 20px rgba(139, 92, 246, 0.8); margin-bottom: 30px;">
+    ⚡ PERFORMANCE METRICS ⚡
+  </h3>
 
-<!-- Premium Stats Cards with Dark Shadow -->
-<div align="center">
-  <a href="https://github.com/HanzzKT">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HanzzKT&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=8B5CF6&icon_color=C084FC&text_color=E0E0E0&border_color=8B5CF6&ring_color=8B5CF6&border_radius=10&custom_title=⚡+Dark+Coder+Stats" alt="GitHub Stats" style="box-shadow: 0 0 20px rgba(139, 92, 246, 0.5);"/>
-  </a>
-  <a href="https://github.com/HanzzKT">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HanzzKT&theme=radical&hide_border=false&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=C084FC&currStreakLabel=8B5CF6&sideLabels=E0E0E0&dates=9CA3AF&border=8B5CF6&border_radius=10" alt="GitHub Streak" style="box-shadow: 0 0 20px rgba(139, 92, 246, 0.5);"/>
-  </a>
-</div>
+  <!-- Stats Cards Row 1 - Holographic Effect -->
+  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 25px;">
+    <a href="https://github.com/HanzzKT">
+      <img width="400" src="https://github-readme-stats.vercel.app/api?username=HanzzKT&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=E0E0E0&ring_color=8B5CF6&border_radius=15&custom_title=🔥+CODER+STATS&include_all_commits=true&count_private=true" alt="GitHub Stats" style="box-shadow: 0 8px 32px rgba(139, 92, 246, 0.5), 0 0 8px rgba(192, 132, 252, 0.3); border: 2px solid rgba(139, 92, 246, 0.3); border-radius: 15px; transition: transform 0.3s;"/>
+    </a>
+    <a href="https://github.com/HanzzKT">
+      <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=HanzzKT&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=A78BFA&ring=8B5CF6&fire=C084FC&currStreakLabel=A78BFA&sideLabels=E0E0E0&dates=9CA3AF&border_radius=15&card_width=400" alt="GitHub Streak" style="box-shadow: 0 8px 32px rgba(139, 92, 246, 0.5), 0 0 8px rgba(192, 132, 252, 0.3); border: 2px solid rgba(139, 92, 246, 0.3); border-radius: 15px;"/>
+    </a>
+  </div>
 
-<br/>
+  <!-- Neon Divider Line -->
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="80%"/>
+  </p>
 
-<!-- Language Stats with Dark Shadow -->
-<div align="center">
-  <a href="https://github.com/HanzzKT">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanzzKT&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&title_color=8B5CF6&text_color=E0E0E0&border_color=8B5CF6&langs_count=8&border_radius=10&custom_title=💻+Tech+Arsenal" alt="Top Languages" style="box-shadow: 0 0 20px rgba(139, 92, 246, 0.5);"/>
-  </a>
-  <a href="https://github.com/HanzzKT">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanzzKT&layout=donut-vertical&theme=radical&hide_border=false&bg_color=0D1117&title_color=8B5CF6&text_color=E0E0E0&border_color=8B5CF6&langs_count=6&border_radius=10" alt="Language Donut" style="box-shadow: 0 0 20px rgba(139, 92, 246, 0.5);"/>
-  </a>
-</div>
+  <!-- Language Stats - Circular Design -->
+  <div style="margin: 30px 0;">
+    <a href="https://github.com/HanzzKT">
+      <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanzzKT&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E0E0E0&langs_count=6&border_radius=15&custom_title=💻+TECH+ARSENAL" alt="Top Languages" style="box-shadow: 0 8px 32px rgba(139, 92, 246, 0.5), 0 0 8px rgba(192, 132, 252, 0.3); border: 2px solid rgba(139, 92, 246, 0.3); border-radius: 15px; margin: 10px;"/>
+    </a>
+    <a href="https://github.com/HanzzKT">
+      <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanzzKT&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E0E0E0&langs_count=8&border_radius=15&custom_title=📊+CODE+DISTRIBUTION" alt="Language Stats" style="box-shadow: 0 8px 32px rgba(139, 92, 246, 0.5), 0 0 8px rgba(192, 132, 252, 0.3); border: 2px solid rgba(139, 92, 246, 0.3); border-radius: 15px; margin: 10px;"/>
+    </a>
+  </div>
 
+  <!-- Neon Divider Line -->
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="80%"/>
+  </p>
 
-<!-- Premium Activity Graph with Dark Shadow -->
-<div align="center">
-  <a href="https://github.com/HanzzKT">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=HanzzKT&custom_title=⚡+Contribution+Graph+⚡&hide_border=false&bg_color=0D1117&color=8B5CF6&line=C084FC&point=8B5CF6&area=true&area_color=8B5CF6&title_color=8B5CF6&border_color=8B5CF6&radius=10" alt="Activity Graph" style="box-shadow: 0 0 25px rgba(139, 92, 246, 0.6);"/>
-  </a>
-</div>
+  <!-- Activity Graph - Futuristic Design -->
+  <div style="margin: 30px 0;">
+    <a href="https://github.com/HanzzKT">
+      <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HanzzKT&custom_title=⚡+NEURAL+ACTIVITY+GRAPH+⚡&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C084FC&area=true&area_color=8B5CF6&title_color=A78BFA&radius=15&height=300" alt="Activity Graph" style="box-shadow: 0 8px 32px rgba(139, 92, 246, 0.6), 0 0 15px rgba(192, 132, 252, 0.4); border: 2px solid rgba(139, 92, 246, 0.4); border-radius: 15px;"/>
+    </a>
+  </div>
 
+  <!-- Neon Divider Line -->
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="80%"/>
+  </p>
 
-<!-- Contribution Snake Animation with Shadow -->
-<div align="center" style="background: #0D1117; padding: 20px; border-radius: 10px; box-shadow: 0 0 30px rgba(139, 92, 246, 0.4);">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <!-- Contribution Snake - Cyber Effect -->
+  <div style="background: linear-gradient(135deg, rgba(13, 17, 23, 0.8) 0%, rgba(26, 26, 46, 0.8) 100%); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(139, 92, 246, 0.4), inset 0 0 20px rgba(139, 92, 246, 0.1); border: 2px solid rgba(139, 92, 246, 0.3); margin-top: 20px;">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" style="filter: drop-shadow(0 0 10px rgba(139, 92, 246, 0.6));"/>
+  </div>
+
+  <!-- Bottom Glow Effect -->
+  <p align="center" style="margin-top: 20px;">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=footer" width="100%"/>
+  </p>
+
 </div>
 
 <!-- Divider -->
