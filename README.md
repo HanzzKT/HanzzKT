@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Dark Villain Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=HANZZ%20KT&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Dark%20Coder%20%7C%20Web%20Developer%20%7C%20Security%20Enthusiast&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1a2e,16213e,0f3460&height=200&section=header&text=HANZZ%20KT&fontSize=80&fontColor=8B5CF6&animation=twinkling&fontAlignY=35&desc=Dark%20Coder%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=600&lines=Muhammad+Rayhan+Riyanto;Full+Stack+Developer;Cybersecurity+Enthusiast;Dark+Coder+%F0%9F%96%A4" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=600&lines=Muhammad+Rayhan+Riyanto;Full+Stack+Developer;Dark+Coder+%F0%9F%96%A4;Code+in+Darkness" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -15,31 +15,35 @@
 
 ## 🌑 About Me
 
-```typescript
-const rayhan = {
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+<div align="left">
+
+```js
+const HanzzKT = {
     name: "Muhammad Rayhan Riyanto",
-    alias: "HanzzKT",
-    role: "Dark Coder & Web Developer",
+    role: "Full Stack Developer",
     location: "Indonesia 🇮🇩",
-    philosophy: "Kegelapan bukan musuh — hanya tempat di mana logika bersinar paling terang.",
     
-    code: {
-        frontend: ["HTML", "CSS", "JavaScript", "React", "Next.js", "TailwindCSS"],
+    tech: {
+        frontend: ["React", "Next.js", "TailwindCSS"],
         backend: ["PHP", "Laravel"],
-        mobile: ["Flutter", "PWA"],
-        database: ["MySQL", "MongoDB"],
-        tools: ["Git"]
+        mobile: ["Flutter"],
+        database: ["MySQL", "MongoDB"]
     },
     
-    currentFocus: "Building secure and scalable web applications",
-    learning: ["Advanced Cybersecurity", "Cloud Architecture", "DevOps"],
-    
-    contact: {
-        github: "@HanzzKT",
-        email: "rayhan@example.com"
-    }
+    motto: "Code in darkness, conquer in light"
 };
 ```
+
+</div>
+
+<br clear="both">
+
+<!-- Dark Villain Quote Card -->
+<p align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=default&font=default&quote=Kegelapan+bukan+musuh+%E2%80%94+hanya+tempat+di+mana+logika+bersinar+paling+terang" alt="Quote"/>
+</p>
 
 <div align="center">
 
@@ -119,19 +123,26 @@ const rayhan = {
 
 ## 📊 GitHub Statistics
 
+<!-- Stats Cards with Dark Villain Design -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HanzzKT&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HanzzKT&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HanzzKT&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&border_radius=10" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HanzzKT&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6&border_radius=10" alt="GitHub Streak"/>
 </p>
 
-<!-- Language Stats with Animation -->
+<!-- Language Stats with Dark Design -->
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanzzKT&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanzzKT&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=8&border_radius=10" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=HanzzKT&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&layout=compact&border_radius=10" alt="Coding Stats"/>
 </p>
 
-<!-- Activity Graph -->
+<!-- Activity Graph with Dark Villain Theme -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HanzzKT&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FF6B6B" alt="Activity Graph"/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=HanzzKT&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FF6B6B&area=true&area_color=8B5CF6" alt="Activity Graph"/>
+</p>
+
+<!-- Contribution Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 <!-- Animated Divider -->
@@ -175,17 +186,19 @@ const rayhan = {
 
 <p align="center">
   <a href="https://github.com/HanzzKT">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6&border_color=8B5CF6" alt="GitHub"/>
+  </a>
+  <a href="https://instagram.com/hanzzkt">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=8B5CF6" alt="Instagram"/>
   </a>
   <a href="mailto:rayhan@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=8B5CF6" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/rayhan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/HanzzKT">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+</p>
+
+<!-- Animated Contact Icons -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
 </p>
 
 <!-- Animated Divider -->
@@ -203,7 +216,7 @@ const rayhan = {
 </p>
 
 <!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1a2e,16213e,0f3460&height=120&section=footer"/>
 
 </div>
 
