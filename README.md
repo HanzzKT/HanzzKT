@@ -24,11 +24,11 @@ const rayhan = {
     philosophy: "Kegelapan bukan musuh — hanya tempat di mana logika bersinar paling terang.",
     
     code: {
-        backend: ["Laravel", "Node.js", "Express", "PHP"],
-        frontend: ["React", "Vue.js", "TailwindCSS", "JavaScript"],
-        database: ["MySQL", "PostgreSQL", "MongoDB"],
-        security: ["Penetration Testing", "OWASP", "Security Auditing"],
-        tools: ["Git", "Docker", "VS Code", "Postman"]
+        frontend: ["HTML", "CSS", "JavaScript", "React", "Next.js", "TailwindCSS"],
+        backend: ["PHP", "Laravel"],
+        mobile: ["Flutter", "PWA"],
+        database: ["MySQL", "MongoDB"],
+        tools: ["Git"]
     },
     
     currentFocus: "Building secure and scalable web applications",
@@ -48,22 +48,70 @@ const rayhan = {
 
 ## 🛠️ Tech Stack & Tools
 
-<!-- Animated Tech Stack -->
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<!-- Animated Tech Icons with Skill Bars -->
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+<!-- Animated Skill Icons (Moving Left to Right) -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,php,laravel,mysql,mongodb,flutter,git&theme=dark&perline=12" alt="Tech Stack" />
+</p>
+
+<!-- PWA Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA"/>
 </p>
 
 <!-- Animated Divider -->
