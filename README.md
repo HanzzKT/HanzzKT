@@ -123,26 +123,52 @@ const HanzzKT = {
 
 ## 📊 GitHub Statistics
 
-<!-- Stats Cards with Dark Villain Design -->
+<!-- Glowing Stats Header -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HanzzKT&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&border_radius=10" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HanzzKT&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </p>
 
-<!-- Language Stats with Dark Design -->
+<!-- Premium Stats Cards with Gradient Design -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanzzKT&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=8&border_radius=10" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=HanzzKT&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&layout=compact&border_radius=10" alt="Coding Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HanzzKT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117,1a1a2e&title_color=A78BFA&icon_color=8B5CF6&text_color=E0E0E0&ring_color=8B5CF6&border_radius=15&custom_title=⚡+Dark+Coder+Stats" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HanzzKT&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA&sideLabels=E0E0E0&dates=9CA3AF&border_radius=15" alt="GitHub Streak"/>
 </p>
 
-<!-- Activity Graph with Dark Villain Theme -->
+<!-- Language & Contribution Stats -->
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=HanzzKT&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FF6B6B&area=true&area_color=8B5CF6" alt="Activity Graph"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanzzKT&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117,1a1a2e&title_color=A78BFA&text_color=E0E0E0&langs_count=6&border_radius=15&custom_title=💻+Tech+Arsenal" alt="Top Languages"/>
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=HanzzKT&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117,1a1a2e&title_color=A78BFA&text_color=E0E0E0&border_radius=15" alt="Contribution Stats"/>
 </p>
 
-<!-- Contribution Snake -->
+<!-- Animated Separator -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</p>
+
+<!-- Premium Activity Graph with Gradient -->
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=HanzzKT&custom_title=⚡+Contribution+Graph+⚡&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C084FC&area=true&area_color=8B5CF6&title_color=A78BFA&radius=16" alt="Activity Graph"/>
+</p>
+
+<!-- Animated Separator -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</p>
+
+<!-- 3D Contribution Calendar -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HanzzKT&theme=tokyonight" alt="Profile Details"/>
+</p>
+
+<!-- Contribution Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+<!-- Stats Visualization -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HanzzKT&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HanzzKT&theme=tokyonight&utcOffset=7" alt="Productive Time"/>
 </p>
 
 <!-- Animated Divider -->
