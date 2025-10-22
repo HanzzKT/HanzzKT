@@ -259,11 +259,6 @@ const HanzzKT = {
 
 <br/>
 
-<!-- Snake Animation with Shadow -->
-<div align="center" style="background: #0D1117; padding: 20px; border-radius: 15px; box-shadow: 0 0 30px rgba(139, 92, 246, 0.5); border: 2px solid #8B5CF6;">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</div>
-
 <!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1a2e,16213e,0f3460&height=120&section=footer"/>
 
