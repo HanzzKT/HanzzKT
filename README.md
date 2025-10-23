@@ -8,6 +8,11 @@
 
 <br/>
 
+<!-- Dark Villain GIF -->
+<img src="https://i.pinimg.com/originals/80/25/aa/8025aa7bcbe82f29e2045fc8a0b1e21c.gif" width="800" alt="Dark Villain" style="border-radius: 15px; box-shadow: 0 0 30px rgba(139, 92, 246, 0.6);"/>
+
+<br/>
+
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 
@@ -125,6 +130,13 @@ const HanzzKT = {
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 
+<!-- Villain Coding GIF -->
+<p align="center">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="600" alt="Villain Coding" style="border-radius: 15px; box-shadow: 0 0 25px rgba(139, 92, 246, 0.5);"/>
+</p>
+
+<br/>
+
 ## 📊 GitHub Statistics
 
 <!-- Futuristic Stats Container with Special Effects -->
@@ -207,6 +219,13 @@ const HanzzKT = {
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+
+<!-- Dark Hacker Villain GIF -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/18/a4/94/18a494e5b2247d271235a8f2a0c90a5c.gif" width="700" alt="Dark Hacker" style="border-radius: 15px; box-shadow: 0 0 30px rgba(139, 92, 246, 0.6);"/>
+</p>
+
+<br/>
 
 ## 🎯 Current Projects
 
