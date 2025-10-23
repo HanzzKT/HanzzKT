@@ -13,7 +13,7 @@
 
 <!-- Moon Theme Villain GIF -->
 <p align="center">
-  <img src="https://media.tenor.com/0t2Oe3FWxHoAAAAM/moon-knight.gif" width="650" alt="Moon Knight Villain" style="border-radius: 20px; box-shadow: 0 0 40px rgba(139, 92, 246, 0.7), 0 0 60px rgba(255, 255, 255, 0.3);"/>
+  <img src="https://media.tenor.com/JXB0ASYR9OIAAAAM/moon-knight-humanveil.gif" width="650" alt="Moon Knight Humanveil" style="border-radius: 20px; box-shadow: 0 0 40px rgba(139, 92, 246, 0.7), 0 0 60px rgba(255, 255, 255, 0.3);"/>
 </p>
 
 <br/>
