@@ -4,14 +4,14 @@
 <!-- MOON VILLAIN HEADER - FUTURISTIC DESIGN -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a0e27,1a1d3a,0f1729,1e2139&height=250&section=header&text=HANZZ%20KT&fontSize=90&fontColor=E8E8E8&animation=twinkling&fontAlignY=35&desc=🌙%20MOON%20VILLAIN%20CODER%20🌙&descAlignY=52&descSize=25"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a0e27,1a1d3a,0f1729,1e2139&height=250&section=header&text=HANZZ%20KT&fontSize=90&fontColor=4FD1C5&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%9A%A1&descAlignY=52&descSize=25"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ANIMATED TYPING TEXT -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=E8E8E8&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Muhammad+Rayhan+Riyanto+%F0%9F%8C%99;Full+Stack+Developer+%E2%9A%A1;Moon+Villain+Coder+%F0%9F%96%A4;Coding+Under+Moonlight+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=4FD1C5&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Muhammad+Rayhan+Riyanto;Full+Stack+Developer+%E2%9A%A1;Code+Creator+%F0%9F%92%BB;Building+Digital+Solutions+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -24,16 +24,6 @@
 <!-- MOON KNIGHT HERO IMAGE -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<table>
-  <tr>
-    <td align="center" width="100%">
-      <img src="https://media1.tenor.com/m/JXB0ASYR9OIAAAAM/moon-knight-humanveil.gif" width="700" alt="Moon Knight Humanveil"/>
-    </td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -41,7 +31,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=E8E8E8&center=true&vCenter=true&width=500&lines=%F0%9F%8C%91+ABOUT+THE+MOON+VILLAIN" alt="About Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=4FD1C5&center=true&vCenter=true&width=400&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+ABOUT+ME" alt="About Me" />
 </h2>
 
 <table width="100%">
@@ -50,35 +40,32 @@
       <br>
       
 ```javascript
-const MoonVillain = {
+const developer = {
   name: "Muhammad Rayhan Riyanto",
-  alias: "HanzzKT",
+  username: "HanzzKT",
   role: "Full Stack Developer",
   location: "Indonesia 🇮🇩",
   
-  mode: "Moon Villain 🌙",
+  status: "Available for Projects",
   
-  arsenal: {
+  techStack: {
     frontend: ["React", "Next.js", "Tailwind"],
-    backend: ["PHP", "Laravel"],
-    mobile: ["Flutter"],
-    database: ["MySQL", "MongoDB"]
+    backend: ["PHP", "Laravel", "Node.js"],
+    mobile: ["Flutter", "React Native"],
+    database: ["MySQL", "MongoDB", "PostgreSQL"]
   },
   
-  power: "Coding Under Moonlight",
-  motto: "In darkness we code, "
-         + "under the moon we conquer"
+  focus: "Building Scalable Solutions",
+  motto: "Clean Code, Better Future"
 };
 ```
       
   </td>
   <td width="50%" align="center">
     <br>
-    <img src="assets/tenor.gif" width="400" alt="Moon Villain"/>
+    <img src="assets/tenor.gif" width="350" alt="Developer"/>
     <br><br>
-    <img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0a0e27&color=E8E8E8"/>
-    <br>
-    <img src="https://img.shields.io/badge/MODE-MOON%20VILLAIN-blueviolet?style=for-the-badge&logo=moon&logoColor=white&labelColor=0a0e27&color=4a5568"/>
+   
   </td>
   </tr>
 </table>
@@ -99,7 +86,7 @@ const MoonVillain = {
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=E8E8E8&center=true&vCenter=true&width=600&lines=%E2%9A%A1+TECH+ARSENAL+%26+WEAPONS" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=4FD1C5&center=true&vCenter=true&width=500&lines=%F0%9F%9B%A0%EF%B8%8F+TECH+STACK" alt="Tech Stack" />
 </h2>
 
 <p align="center">
@@ -109,7 +96,7 @@ const MoonVillain = {
 <table width="100%">
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/FRONTEND-E8E8E8?style=for-the-badge&logoColor=white&labelColor=0a0e27"/>
+      <img src="https://img.shields.io/badge/FRONTEND-4FD1C5?style=for-the-badge&logoColor=white&labelColor=0a0e27"/>
       <br><br>
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
@@ -118,7 +105,7 @@ const MoonVillain = {
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/BACKEND-E8E8E8?style=for-the-badge&logoColor=white&labelColor=0a0e27"/>
+      <img src="https://img.shields.io/badge/BACKEND-4FD1C5?style=for-the-badge&logoColor=white&labelColor=0a0e27"/>
       <br><br>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
@@ -127,21 +114,17 @@ const MoonVillain = {
       <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/DATABASE-E8E8E8?style=for-the-badge&logoColor=white&labelColor=0a0e27"/>
+      <img src="https://img.shields.io/badge/DATABASE-4FD1C5?style=for-the-badge&logoColor=white&labelColor=0a0e27"/>
       <br><br>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-      <br>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/MOBILE-E8E8E8?style=for-the-badge&logoColor=white&labelColor=0a0e27"/>
+      <img src="https://img.shields.io/badge/MOBILE-4FD1C5?style=for-the-badge&logoColor=white&labelColor=0a0e27"/>
       <br><br>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
       <br>
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white"/>
     </td>
   </tr>
@@ -154,16 +137,16 @@ const MoonVillain = {
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=E8E8E8&center=true&vCenter=true&width=700&lines=%F0%9F%8C%99+MOONLIGHT+POWER+STATISTICS" alt="GitHub Statistics" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=4FD1C5&center=true&vCenter=true&width=600&lines=%F0%9F%93%8A+GITHUB+STATISTICS" alt="GitHub Statistics" />
 </h2>
 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=HanzzKT&show_icons=true&theme=radical&hide_border=true&bg_color=0a0e27&title_color=E8E8E8&icon_color=C0C0C0&text_color=D3D3D3&border_radius=10&custom_title=🌙%20Moon%20Villain%20Stats" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=HanzzKT&show_icons=true&theme=radical&hide_border=true&bg_color=0a0e27&title_color=4FD1C5&icon_color=38B2AC&text_color=D3D3D3&border_radius=10&custom_title=%F0%9F%94%A5%20GitHub%20Stats" alt="GitHub Stats" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HanzzKT&theme=radical&hide_border=true&background=0a0e27&stroke=E8E8E8&ring=C0C0C0&fire=E8E8E8&currStreakLabel=E8E8E8&sideLabels=D3D3D3&dates=A0A0A0&border_radius=10" alt="GitHub Streak" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HanzzKT&theme=radical&hide_border=true&background=0a0e27&stroke=4FD1C5&ring=38B2AC&fire=4FD1C5&currStreakLabel=4FD1C5&sideLabels=D3D3D3&dates=A0A0A0&border_radius=10" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
 </table>
@@ -173,17 +156,17 @@ const MoonVillain = {
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanzzKT&layout=donut&theme=radical&hide_border=true&bg_color=0a0e27&title_color=E8E8E8&text_color=D3D3D3&border_radius=10&custom_title=⚔️%20Code%20Arsenal" alt="Top Languages" width="95%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanzzKT&layout=donut&theme=radical&hide_border=true&bg_color=0a0e27&title_color=4FD1C5&text_color=D3D3D3&border_radius=10&custom_title=%F0%9F%92%BB%20Top%20Languages" alt="Top Languages" width="95%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanzzKT&layout=compact&theme=radical&hide_border=true&bg_color=0a0e27&title_color=E8E8E8&text_color=D3D3D3&border_radius=10&custom_title=📊%20Distribution" alt="Language Distribution" width="95%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanzzKT&layout=compact&theme=radical&hide_border=true&bg_color=0a0e27&title_color=4FD1C5&text_color=D3D3D3&border_radius=10&custom_title=%F0%9F%93%88%20Code%20Distribution" alt="Language Distribution" width="95%" />
     </td>
   </tr>
 </table>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HanzzKT&custom_title=%F0%9F%8C%99%20MOON%20VILLAIN%20ACTIVITY%20GRAPH&hide_border=true&bg_color=0a0e27&color=E8E8E8&line=C0C0C0&point=E8E8E8&area=true&area_color=4a5568&title_color=E8E8E8&height=300" width="98%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HanzzKT&custom_title=%F0%9F%93%89%20Contribution%20Activity%20Graph&hide_border=true&bg_color=0a0e27&color=4FD1C5&line=38B2AC&point=4FD1C5&area=true&area_color=1a1d3a&title_color=4FD1C5&height=300" width="98%" alt="Activity Graph" />
 
 <br>
 
@@ -204,11 +187,11 @@ const MoonVillain = {
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://komarev.com/ghpvc/?username=HanzzKT&label=MOON%20VISITORS&color=E8E8E8&style=for-the-badge&labelColor=0a0e27" alt="Profile Views"/>
+      <img src="https://komarev.com/ghpvc/?username=HanzzKT&label=Profile%20Views&color=4FD1C5&style=for-the-badge&labelColor=0a0e27" alt="Profile Views"/>
       <br><br>
-      <img src="https://img.shields.io/github/followers/HanzzKT?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27&color=E8E8E8" alt="Followers"/>
+      <img src="https://img.shields.io/github/followers/HanzzKT?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27&color=38B2AC" alt="Followers"/>
       <br><br>
-      <img src="https://img.shields.io/badge/CODING%20MODE-MOON%20VILLAIN-blueviolet?style=for-the-badge&logo=starship&logoColor=white&labelColor=0a0e27&color=4a5568" alt="Coding Mode"/>
+      <img src="https://img.shields.io/badge/Developer-Open%20to%20Work-success?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0a0e27&color=4FD1C5" alt="Status"/>
     </td>
   </tr>
 </table>
@@ -220,14 +203,14 @@ const MoonVillain = {
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=E8E8E8&center=true&vCenter=true&width=500&lines=%F0%9F%8E%AF+MOON+PROJECTS" alt="Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=4FD1C5&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+PROJECTS" alt="Projects" />
 </h2>
 
 <table width="100%">
   <tr>
     <td width="100%" align="center">
       <a href="https://github.com/HanzzKT/customer-service">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HanzzKT&repo=customer-service&theme=radical&hide_border=true&bg_color=0a0e27&title_color=E8E8E8&icon_color=C0C0C0&text_color=D3D3D3&border_radius=10" alt="Customer Service" width="45%"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HanzzKT&repo=customer-service&theme=radical&hide_border=true&bg_color=0a0e27&title_color=4FD1C5&icon_color=38B2AC&text_color=D3D3D3&border_radius=10" alt="Customer Service" width="45%"/>
       </a>
     </td>
   </tr>
@@ -240,14 +223,14 @@ const MoonVillain = {
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=E8E8E8&center=true&vCenter=true&width=600&lines=%F0%9F%8C%90+CONTACT+THE+VILLAIN" alt="Connect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=4FD1C5&center=true&vCenter=true&width=500&lines=%F0%9F%93%A7+CONNECT" alt="Connect" />
 </h2>
 
 <table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/HanzzKT">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=E8E8E8&labelColor=0a0e27" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
       </a>
     </td>
     <td align="center">
@@ -273,7 +256,7 @@ const MoonVillain = {
 <table align="center" width="80%">
   <tr>
     <td align="center">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Under%20the%20moon's%20glow,%20I%20code%20and%20conquer.%20In%20darkness%20we%20thrive,%20as%20villains%20we%20rise.&author=Moon%20Villain%20-%20HanzzKT&border=true" alt="Quote" width="100%"/>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Building%20tomorrow's%20solutions%20with%20today's%20technology.%20Code%20with%20passion,%20deliver%20with%20precision.&author=HanzzKT&border=true" alt="Quote" width="100%"/>
     </td>
   </tr>
 </table>
@@ -289,7 +272,7 @@ const MoonVillain = {
 <table width="100%">
   <tr>
     <td align="center">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0e27,1a1d3a,0f1729,1e2139&height=150&section=footer&text=MOON%20VILLAIN&fontSize=40&fontColor=E8E8E8&animation=twinkling&fontAlignY=70" width="100%"/>
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0e27,1a1d3a,0f1729,1e2139&height=150&section=footer&text=HANZZ%20KT&fontSize=40&fontColor=4FD1C5&animation=twinkling&fontAlignY=70" width="100%"/>
     </td>
   </tr>
 </table>
@@ -297,7 +280,7 @@ const MoonVillain = {
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E8E8E8&center=true&vCenter=true&width=600&lines=%F0%9F%8C%99+In+darkness+we+code,+under+the+moon+we+conquer+%F0%9F%8C%99;%F0%9F%96%A4+Made+with+dark+magic+by+HanzzKT+%F0%9F%96%A4;%E2%9A%A1+Moon+Villain+Coder+Forever+%E2%9A%A1" alt="Footer" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=4FD1C5&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Thanks+for+visiting!+%E2%9C%A8;%F0%9F%92%BB+Let's+build+something+amazing+together+%F0%9F%92%BB;%F0%9F%9A%80+Happy+Coding!+%F0%9F%9A%80" alt="Footer" />
     </td>
   </tr>
 </table>
@@ -305,8 +288,8 @@ const MoonVillain = {
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BUILT%20WITH-%F0%9F%8C%99%20MOONLIGHT-blueviolet?style=for-the-badge&labelColor=0a0e27&color=4a5568" alt="Built With"/>
-  <img src="https://img.shields.io/badge/POWERED%20BY-DARK%20MAGIC-black?style=for-the-badge&labelColor=0a0e27&color=E8E8E8" alt="Powered By"/>
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20Love-red?style=for-the-badge&labelColor=0a0e27&color=4FD1C5" alt="Made with Love"/>
+  <img src="https://img.shields.io/badge/Powered%20by-Coffee%20%E2%98%95-brown?style=for-the-badge&labelColor=0a0e27&color=38B2AC" alt="Powered By"/>
 </p>
 
 </div>
