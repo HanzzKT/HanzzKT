@@ -1,24 +1,27 @@
 <div align="center">
 
 <!-- Animated Dark Villain Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1a2e,16213e,0f3460&height=200&section=header&text=HANZZ%20KT&fontSize=80&fontColor=8B5CF6&animation=twinkling&fontAlignY=35&desc=Dark%20Coder%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a0e27,1a1d3a,0f1729,1e2139&height=200&section=header&text=HANZZ%20KT&fontSize=80&fontColor=C0C0C0&animation=twinkling&fontAlignY=35&desc=Moon%20Coder%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=600&lines=Muhammad+Rayhan+Riyanto;Full+Stack+Developer;Dark+Coder+%F0%9F%96%A4;Code+in+Darkness" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&random=false&width=600&lines=Muhammad+Rayhan+Riyanto;Full+Stack+Developer;Moon+Coder+🌙;Code+Under+Moonlight" alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- Moon Theme Villain GIF -->
-<div class="tenor-gif-embed" data-postid="25322604" data-share-method="host" data-aspect-ratio="0.9" data-width="100%"><a href="https://tenor.com/view/moon-knight-humanveil-gif-25322604">Moon Knight Humanveil GIF</a>from <a href="https://tenor.com/search/moon+knight-gifs">Moon Knight GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <img src="https://media1.tenor.com/m/JXB0ASYR9OIAAAAM/moon-knight-humanveil.gif" width="650" alt="Moon Knight Humanveil" style="border-radius: 20px; box-shadow: 0 0 40px rgba(192, 192, 192, 0.5), 0 0 60px rgba(255, 255, 255, 0.3);"/>
+</p>
+
 <br/>
 
 </div>
 
 ## 🌑 About Me
 
-<div style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); padding: 30px; border-radius: 15px; box-shadow: 0 0 30px rgba(139, 92, 246, 0.5); border: 2px solid #8B5CF6;">
+<div style="background: linear-gradient(135deg, #0a0e27 0%, #1a1d3a 100%); padding: 30px; border-radius: 15px; box-shadow: 0 0 30px rgba(192, 192, 192, 0.3); border: 2px solid #4a5568;">
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="border-radius: 10px; box-shadow: 0 0 20px rgba(139, 92, 246, 0.4);">
+<img align="right" alt="Moon Theme" width="350" src="assets/tenor.gif" style="border-radius: 10px; box-shadow: 0 0 20px rgba(192, 192, 192, 0.4);">
 
 <div align="left">
 
@@ -35,7 +38,7 @@ const HanzzKT = {
         database: ["MySQL", "MongoDB"]
     },
     
-    motto: "Code in darkness, conquer in light"
+    motto: "Under the moon's glow, I code and conquer"
 };
 ```
 
@@ -54,7 +57,7 @@ const HanzzKT = {
 ## 🛠️ Tech Stack & Tools
 
 <!-- Animated Tech Icons with Skill Bars and Dark Shadow -->
-<div style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); padding: 30px; border-radius: 15px; box-shadow: 0 0 30px rgba(139, 92, 246, 0.5); border: 2px solid #8B5CF6;">
+<div style="background: linear-gradient(135deg, #0a0e27 0%, #1a1d3a 100%); padding: 30px; border-radius: 15px; box-shadow: 0 0 30px rgba(192, 192, 192, 0.3); border: 2px solid #4a5568;">
 
 <table align="center">
   <tr>
@@ -129,7 +132,7 @@ const HanzzKT = {
 ## 📊 GitHub Statistics
 
 <!-- Futuristic Stats Container with Special Effects -->
-<div align="center" style="position: relative; background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 50%, #0D1117 100%); padding: 40px 20px; border-radius: 20px; box-shadow: 0 0 50px rgba(139, 92, 246, 0.6), inset 0 0 30px rgba(139, 92, 246, 0.1); border: 3px solid transparent; background-clip: padding-box; position: relative;">
+<div align="center" style="position: relative; background: linear-gradient(135deg, #0a0e27 0%, #1a1d3a 50%, #0a0e27 100%); padding: 40px 20px; border-radius: 20px; box-shadow: 0 0 50px rgba(192, 192, 192, 0.4), inset 0 0 30px rgba(192, 192, 192, 0.1); border: 3px solid transparent; background-clip: padding-box; position: relative;">
   
   <!-- Glowing Header Animation -->
   <p align="center">
@@ -137,17 +140,17 @@ const HanzzKT = {
   </p>
   
   <!-- Futuristic Title with Glow -->
-  <h3 align="center" style="color: #8B5CF6; text-shadow: 0 0 20px rgba(139, 92, 246, 0.8); margin-bottom: 30px;">
-    ⚡ PERFORMANCE METRICS ⚡
+  <h3 align="center" style="color: #C0C0C0; text-shadow: 0 0 20px rgba(192, 192, 192, 0.8); margin-bottom: 30px;">
+    🌙 MOONLIGHT METRICS 🌙
   </h3>
 
   <!-- Stats Cards Row 1 - Holographic Effect -->
   <p align="center">
     <a href="https://github.com/HanzzKT">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HanzzKT&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=E0E0E0&ring_color=8B5CF6&border_radius=15&custom_title=🔥+CODER+STATS&include_all_commits=true&count_private=true" alt="GitHub Stats" style="box-shadow: 0 8px 32px rgba(139, 92, 246, 0.5), 0 0 8px rgba(192, 132, 252, 0.3); border: 2px solid rgba(139, 92, 246, 0.3); border-radius: 15px;"/>
+      <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HanzzKT&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0e27&title_color=C0C0C0&icon_color=E8E8E8&text_color=D3D3D3&ring_color=C0C0C0&border_radius=15&custom_title=🌙+MOON+STATS&include_all_commits=true&count_private=true" alt="GitHub Stats" style="box-shadow: 0 8px 32px rgba(192, 192, 192, 0.3), 0 0 8px rgba(192, 192, 192, 0.2); border: 2px solid rgba(192, 192, 192, 0.3); border-radius: 15px;"/>
     </a>
     <a href="https://github.com/HanzzKT">
-      <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HanzzKT&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=A78BFA&ring=8B5CF6&fire=C084FC&currStreakLabel=A78BFA&sideLabels=E0E0E0&dates=9CA3AF&border_radius=15" alt="GitHub Streak" style="box-shadow: 0 8px 32px rgba(139, 92, 246, 0.5), 0 0 8px rgba(192, 132, 252, 0.3); border: 2px solid rgba(139, 92, 246, 0.3); border-radius: 15px;"/>
+      <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HanzzKT&theme=chartreuse-dark&hide_border=true&background=0a0e27&stroke=C0C0C0&ring=E8E8E8&fire=D3D3D3&currStreakLabel=C0C0C0&sideLabels=D3D3D3&dates=A0A0A0&border_radius=15" alt="GitHub Streak" style="box-shadow: 0 8px 32px rgba(192, 192, 192, 0.3), 0 0 8px rgba(192, 192, 192, 0.2); border: 2px solid rgba(192, 192, 192, 0.3); border-radius: 15px;"/>
     </a>
   </p>
 
@@ -159,10 +162,10 @@ const HanzzKT = {
   <!-- Language Stats - Circular Design -->
   <p align="center">
     <a href="https://github.com/HanzzKT">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanzzKT&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E0E0E0&langs_count=6&border_radius=15&custom_title=💻+TECH+ARSENAL" alt="Top Languages" style="box-shadow: 0 8px 32px rgba(139, 92, 246, 0.5), 0 0 8px rgba(192, 132, 252, 0.3); border: 2px solid rgba(139, 92, 246, 0.3); border-radius: 15px;"/>
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanzzKT&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0a0e27&title_color=C0C0C0&text_color=D3D3D3&langs_count=6&border_radius=15&custom_title=🌙+TECH+ARSENAL" alt="Top Languages" style="box-shadow: 0 8px 32px rgba(192, 192, 192, 0.3), 0 0 8px rgba(192, 192, 192, 0.2); border: 2px solid rgba(192, 192, 192, 0.3); border-radius: 15px;"/>
     </a>
     <a href="https://github.com/HanzzKT">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanzzKT&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E0E0E0&langs_count=8&border_radius=15&custom_title=📊+CODE+DISTRIBUTION" alt="Language Stats" style="box-shadow: 0 8px 32px rgba(139, 92, 246, 0.5), 0 0 8px rgba(192, 132, 252, 0.3); border: 2px solid rgba(139, 92, 246, 0.3); border-radius: 15px;"/>
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanzzKT&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0e27&title_color=C0C0C0&text_color=D3D3D3&langs_count=8&border_radius=15&custom_title=📊+CODE+DISTRIBUTION" alt="Language Stats" style="box-shadow: 0 8px 32px rgba(192, 192, 192, 0.3), 0 0 8px rgba(192, 192, 192, 0.2); border: 2px solid rgba(192, 192, 192, 0.3); border-radius: 15px;"/>
     </a>
   </p>
 
@@ -174,7 +177,7 @@ const HanzzKT = {
   <!-- Activity Graph - Futuristic Design -->
   <p align="center">
     <a href="https://github.com/HanzzKT">
-      <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=HanzzKT&custom_title=⚡+NEURAL+ACTIVITY+GRAPH+⚡&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C084FC&area=true&area_color=8B5CF6&title_color=A78BFA&radius=15&height=280" alt="Activity Graph" style="box-shadow: 0 8px 32px rgba(139, 92, 246, 0.6), 0 0 15px rgba(192, 132, 252, 0.4); border: 2px solid rgba(139, 92, 246, 0.4); border-radius: 15px;"/>
+      <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=HanzzKT&custom_title=🌙+MOONLIGHT+ACTIVITY+GRAPH+🌙&hide_border=true&bg_color=0a0e27&color=C0C0C0&line=E8E8E8&point=D3D3D3&area=true&area_color=4a5568&title_color=C0C0C0&radius=15&height=280" alt="Activity Graph" style="box-shadow: 0 8px 32px rgba(192, 192, 192, 0.4), 0 0 15px rgba(192, 192, 192, 0.3); border: 2px solid rgba(192, 192, 192, 0.3); border-radius: 15px;"/>
     </a>
   </p>
 
@@ -190,8 +193,8 @@ const HanzzKT = {
 
 ## 🏆 GitHub Trophies
 
-<div align="center" style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); padding: 30px; border-radius: 15px; box-shadow: 0 0 30px rgba(139, 92, 246, 0.5); border: 2px solid #8B5CF6;">
-  <img src="https://github-profile-trophy.vercel.app/?username=HanzzKT&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" style="filter: drop-shadow(0 0 10px rgba(139, 92, 246, 0.5));"/>
+<div align="center" style="background: linear-gradient(135deg, #0a0e27 0%, #1a1d3a 100%); padding: 30px; border-radius: 15px; box-shadow: 0 0 30px rgba(192, 192, 192, 0.3); border: 2px solid #4a5568;">
+  <img src="https://github-profile-trophy.vercel.app/?username=HanzzKT&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" style="filter: drop-shadow(0 0 10px rgba(192, 192, 192, 0.4));"/>
 </div>
 
 
@@ -203,7 +206,7 @@ const HanzzKT = {
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HanzzKT&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=HanzzKT&label=Profile%20Views&color=C0C0C0&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <!-- Divider -->
@@ -211,9 +214,9 @@ const HanzzKT = {
 
 ## 🎯 Current Projects
 
-<div align="center" style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); padding: 30px; border-radius: 15px; box-shadow: 0 0 30px rgba(139, 92, 246, 0.5); border: 2px solid #8B5CF6;">
+<div align="center" style="background: linear-gradient(135deg, #0a0e27 0%, #1a1d3a 100%); padding: 30px; border-radius: 15px; box-shadow: 0 0 30px rgba(192, 192, 192, 0.3); border: 2px solid #4a5568;">
   <a href="https://github.com/HanzzKT/customer-service">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HanzzKT&repo=customer-service&theme=radical&hide_border=false&bg_color=0D1117&title_color=8B5CF6&icon_color=C084FC&text_color=FFFFFF&border_color=8B5CF6&border_radius=10" alt="Customer Service" style="box-shadow: 0 0 20px rgba(139, 92, 246, 0.5);"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HanzzKT&repo=customer-service&theme=radical&hide_border=false&bg_color=0a0e27&title_color=C0C0C0&icon_color=E8E8E8&text_color=D3D3D3&border_color=4a5568&border_radius=10" alt="Customer Service" style="box-shadow: 0 0 20px rgba(192, 192, 192, 0.3);"/>
   </a>
 </div>
 
@@ -222,17 +225,17 @@ const HanzzKT = {
 
 ## 🌐 Connect With Me
 
-<div align="center" style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); padding: 30px; border-radius: 15px; box-shadow: 0 0 30px rgba(139, 92, 246, 0.5); border: 2px solid #8B5CF6;">
+<div align="center" style="background: linear-gradient(135deg, #0a0e27 0%, #1a1d3a 100%); padding: 30px; border-radius: 15px; box-shadow: 0 0 30px rgba(192, 192, 192, 0.3); border: 2px solid #4a5568;">
 
 <p align="center">
   <a href="https://github.com/HanzzKT">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6&border_color=8B5CF6" alt="GitHub" style="box-shadow: 0 0 15px rgba(139, 92, 246, 0.5); margin: 5px;"/>
+    <img src="https://img.shields.io/badge/GitHub-0a0e27?style=for-the-badge&logo=github&logoColor=C0C0C0&border_color=4a5568" alt="GitHub" style="box-shadow: 0 0 15px rgba(192, 192, 192, 0.3); margin: 5px;"/>
   </a>
   <a href="https://instagram.com/hanzzkt">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=8B5CF6" alt="Instagram" style="box-shadow: 0 0 15px rgba(139, 92, 246, 0.5); margin: 5px;"/>
+    <img src="https://img.shields.io/badge/Instagram-0a0e27?style=for-the-badge&logo=instagram&logoColor=C0C0C0" alt="Instagram" style="box-shadow: 0 0 15px rgba(192, 192, 192, 0.3); margin: 5px;"/>
   </a>
   <a href="mailto:rayhan@example.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=8B5CF6" alt="Email" style="box-shadow: 0 0 15px rgba(139, 92, 246, 0.5); margin: 5px;"/>
+    <img src="https://img.shields.io/badge/Email-0a0e27?style=for-the-badge&logo=gmail&logoColor=C0C0C0" alt="Email" style="box-shadow: 0 0 15px rgba(192, 192, 192, 0.3); margin: 5px;"/>
   </a>
 </p>
 
@@ -244,14 +247,14 @@ const HanzzKT = {
 
 ## ⚡ Quote
 
-<div align="center" style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); padding: 30px; border-radius: 15px; box-shadow: 0 0 30px rgba(139, 92, 246, 0.5); border: 2px solid #8B5CF6;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Kegelapan%20bukan%20musuh%20%E2%80%94%20hanya%20tempat%20di%20mana%20logika%20bersinar%20paling%20terang.&author=HanzzKT" alt="Quote" style="box-shadow: 0 0 20px rgba(139, 92, 246, 0.4); border-radius: 10px;"/>
+<div align="center" style="background: linear-gradient(135deg, #0a0e27 0%, #1a1d3a 100%); padding: 30px; border-radius: 15px; box-shadow: 0 0 30px rgba(192, 192, 192, 0.3); border: 2px solid #4a5568;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Di%20bawah%20cahaya%20bulan%2C%20kode%20menjadi%20puisi%20yang%20indah.&author=HanzzKT" alt="Quote" style="box-shadow: 0 0 20px rgba(192, 192, 192, 0.3); border-radius: 10px;"/>
 </div>
 
 <br/>
 
 <!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1a2e,16213e,0f3460&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a0e27,1a1d3a,0f1729,1e2139&height=120&section=footer"/>
 
 </div>
 
@@ -259,8 +262,8 @@ const HanzzKT = {
 
 <div align="center">
   
-### 🖤 "In darkness, we code. In code, we conquer." 🖤
+### 🌙 "Under the moon's glow, I code and conquer." 🌙
 
-**Made with 🖤 by HanzzKT**
+**Made with 🌙 by HanzzKT**
 
 </div>
