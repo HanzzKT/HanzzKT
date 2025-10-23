@@ -8,13 +8,22 @@
 
 <br/>
 
-<!-- Dark Villain GIF -->
-<img src="https://i.pinimg.com/originals/80/25/aa/8025aa7bcbe82f29e2045fc8a0b1e21c.gif" width="800" alt="Dark Villain" style="border-radius: 15px; box-shadow: 0 0 30px rgba(139, 92, 246, 0.6);"/>
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+
+<!-- Moon Theme Villain GIF -->
+<p align="center">
+  <img src="https://media.tenor.com/0t2Oe3FWxHoAAAAM/moon-knight.gif" width="650" alt="Moon Knight Villain" style="border-radius: 20px; box-shadow: 0 0 40px rgba(139, 92, 246, 0.7), 0 0 60px rgba(255, 255, 255, 0.3);"/>
+</p>
 
 <br/>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+<!-- Moon Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+  🌙✨🌙
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+</p>
 
 </div>
 
@@ -130,13 +139,6 @@ const HanzzKT = {
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 
-<!-- Villain Coding GIF -->
-<p align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="600" alt="Villain Coding" style="border-radius: 15px; box-shadow: 0 0 25px rgba(139, 92, 246, 0.5);"/>
-</p>
-
-<br/>
-
 ## 📊 GitHub Statistics
 
 <!-- Futuristic Stats Container with Special Effects -->
@@ -220,13 +222,6 @@ const HanzzKT = {
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 
-<!-- Dark Hacker Villain GIF -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/18/a4/94/18a494e5b2247d271235a8f2a0c90a5c.gif" width="700" alt="Dark Hacker" style="border-radius: 15px; box-shadow: 0 0 30px rgba(139, 92, 246, 0.6);"/>
-</p>
-
-<br/>
-
 ## 🎯 Current Projects
 
 <div align="center" style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); padding: 30px; border-radius: 15px; box-shadow: 0 0 30px rgba(139, 92, 246, 0.5); border: 2px solid #8B5CF6;">
@@ -260,6 +255,11 @@ const HanzzKT = {
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 
+<!-- Moon Divider -->
+<p align="center">
+  🌙 ✨ 🌑 ✨ 🌙
+</p>
+
 ## ⚡ Quote
 
 <div align="center" style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); padding: 30px; border-radius: 15px; box-shadow: 0 0 30px rgba(139, 92, 246, 0.5); border: 2px solid #8B5CF6;">
@@ -267,6 +267,13 @@ const HanzzKT = {
 </div>
 
 <br/>
+
+<!-- Moon Night Sky -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300"/>
+  🌙
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300"/>
+</p>
 
 <!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1a2e,16213e,0f3460&height=120&section=footer"/>
@@ -277,8 +284,8 @@ const HanzzKT = {
 
 <div align="center">
   
-### 🖤 "In darkness, we code. In code, we conquer." 🖤
+### 🌙 "In darkness, we code. Under the moon, we conquer." 🌙
 
-**Made with 🖤 by HanzzKT**
+**Made with 🖤 by HanzzKT** 🌑
 
 </div>
