@@ -51,8 +51,8 @@ const developer = {
   techStack: {
     frontend: ["React", "Next.js", "Tailwind"],
     backend: ["PHP", "Laravel", "Node.js"],
-    mobile: ["Flutter", "React Native"],
-    database: ["MySQL", "MongoDB", "PostgreSQL"]
+    mobile: ["Flutter"],
+    database: ["MySQL", "MongoDB"]
   },
   
   focus: "Building Scalable Solutions",
@@ -96,7 +96,7 @@ const developer = {
 <table width="100%">
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/FRONTEND-4FD1C5?style=for-the-badge&logoColor=white&labelColor=0a0e27"/>
+      <img src="https://img.shields.io/badge/FRONTEND-0D4F5C?style=for-the-badge&logoColor=white&labelColor=0a0e27"/>
       <br><br>
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
@@ -105,7 +105,7 @@ const developer = {
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/BACKEND-4FD1C5?style=for-the-badge&logoColor=white&labelColor=0a0e27"/>
+      <img src="https://img.shields.io/badge/BACKEND-0D4F5C?style=for-the-badge&logoColor=white&labelColor=0a0e27"/>
       <br><br>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
@@ -114,13 +114,13 @@ const developer = {
       <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/DATABASE-4FD1C5?style=for-the-badge&logoColor=white&labelColor=0a0e27"/>
+      <img src="https://img.shields.io/badge/DATABASE-0D4F5C?style=for-the-badge&logoColor=white&labelColor=0a0e27"/>
       <br><br>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/MOBILE-4FD1C5?style=for-the-badge&logoColor=white&labelColor=0a0e27"/>
+      <img src="https://img.shields.io/badge/MOBILE-0D4F5C?style=for-the-badge&logoColor=white&labelColor=0a0e27"/>
       <br><br>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
