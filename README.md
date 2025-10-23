@@ -1,5 +1,72 @@
 <div align="center">
 
+<!-- CSS Animations & Effects -->
+<style>
+@keyframes glow {
+  0%, 100% { box-shadow: 0 0 5px #C0C0C0, 0 0 10px #C0C0C0, 0 0 15px #C0C0C0, 0 0 20px #4a5568; }
+  50% { box-shadow: 0 0 10px #E8E8E8, 0 0 20px #E8E8E8, 0 0 30px #E8E8E8, 0 0 40px #4a5568; }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+}
+
+@keyframes slideIn {
+  from { opacity: 0; transform: translateX(-50px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+.moon-card {
+  transition: all 0.3s ease;
+  border: 2px solid #4a5568;
+  animation: glow 3s infinite;
+}
+
+.moon-card:hover {
+  transform: translateY(-5px) scale(1.02);
+  box-shadow: 0 0 20px #C0C0C0, 0 0 30px #E8E8E8, 0 0 40px #4a5568;
+  border-color: #C0C0C0;
+}
+
+.moon-badge {
+  transition: all 0.3s ease;
+  display: inline-block;
+}
+
+.moon-badge:hover {
+  transform: scale(1.1) rotate(5deg);
+  filter: brightness(1.3);
+}
+
+.moon-icon {
+  transition: all 0.3s ease;
+  display: inline-block;
+}
+
+.moon-icon:hover {
+  transform: scale(1.2) rotate(360deg);
+  filter: drop-shadow(0 0 10px #C0C0C0);
+}
+
+.moon-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+.moon-pulse {
+  animation: pulse 2s ease-in-out infinite;
+}
+
+.moon-slide {
+  animation: slideIn 1s ease-out;
+}
+</style>
+
 <!-- Animated Dark Villain Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a0e27,1a1d3a,0f1729,1e2139&height=200&section=header&text=HANZZ%20KT&fontSize=80&fontColor=C0C0C0&animation=twinkling&fontAlignY=35&desc=Moon%20Coder%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20"/>
 
@@ -9,7 +76,7 @@
 <br/>
 
 <!-- Moon Theme Villain GIF -->
-<p align="center">
+<p align="center" class="moon-float">
   <img src="https://media1.tenor.com/m/JXB0ASYR9OIAAAAM/moon-knight-humanveil.gif" width="650" alt="Moon Knight Humanveil" style="border-radius: 20px; box-shadow: 0 0 40px rgba(192, 192, 192, 0.5), 0 0 60px rgba(255, 255, 255, 0.3);"/>
 </p>
 
@@ -19,7 +86,7 @@
 
 ## 🌑 About Me
 
-<div style="background: linear-gradient(135deg, #0a0e27 0%, #1a1d3a 100%); padding: 30px; border-radius: 15px; box-shadow: 0 0 30px rgba(192, 192, 192, 0.3); border: 2px solid #4a5568;">
+<div class="moon-card moon-slide" style="background: linear-gradient(135deg, #0a0e27 0%, #1a1d3a 100%); padding: 30px; border-radius: 15px;">
 
 <img align="right" alt="Moon Theme" width="350" src="assets/tenor.gif" style="border-radius: 10px; box-shadow: 0 0 20px rgba(192, 192, 192, 0.4);">
 
@@ -57,57 +124,57 @@ const HanzzKT = {
 ## 🛠️ Tech Stack & Tools
 
 <!-- Animated Tech Icons with Skill Bars and Dark Shadow -->
-<div style="background: linear-gradient(135deg, #0a0e27 0%, #1a1d3a 100%); padding: 30px; border-radius: 15px; box-shadow: 0 0 30px rgba(192, 192, 192, 0.3); border: 2px solid #4a5568;">
+<div class="moon-card" style="background: linear-gradient(135deg, #0a0e27 0%, #1a1d3a 100%); padding: 30px; border-radius: 15px;">
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="96" class="moon-icon">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" class="moon-icon">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" class="moon-icon">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" class="moon-icon">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br>Tailwind
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" class="moon-icon">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       <br>React
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" class="moon-icon">
       <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
       <br>Next.js
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="96" class="moon-icon">
       <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" class="moon-icon">
       <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
       <br>Laravel
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" class="moon-icon">
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" class="moon-icon">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" class="moon-icon">
       <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
       <br>Flutter
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" class="moon-icon">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
@@ -132,7 +199,7 @@ const HanzzKT = {
 ## 📊 GitHub Statistics
 
 <!-- Futuristic Stats Container with Special Effects -->
-<div align="center" style="position: relative; background: linear-gradient(135deg, #0a0e27 0%, #1a1d3a 50%, #0a0e27 100%); padding: 40px 20px; border-radius: 20px; box-shadow: 0 0 50px rgba(192, 192, 192, 0.4), inset 0 0 30px rgba(192, 192, 192, 0.1); border: 3px solid transparent; background-clip: padding-box; position: relative;">
+<div align="center" class="moon-card" style="position: relative; background: linear-gradient(135deg, #0a0e27 0%, #1a1d3a 50%, #0a0e27 100%); padding: 40px 20px; border-radius: 20px;">
   
   <!-- Glowing Header Animation -->
   <p align="center">
@@ -146,10 +213,10 @@ const HanzzKT = {
 
   <!-- Stats Cards Row 1 - Holographic Effect -->
   <p align="center">
-    <a href="https://github.com/HanzzKT">
+    <a href="https://github.com/HanzzKT" class="moon-pulse">
       <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HanzzKT&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0e27&title_color=C0C0C0&icon_color=E8E8E8&text_color=D3D3D3&ring_color=C0C0C0&border_radius=15&custom_title=🌙+MOON+STATS&include_all_commits=true&count_private=true" alt="GitHub Stats" style="box-shadow: 0 8px 32px rgba(192, 192, 192, 0.3), 0 0 8px rgba(192, 192, 192, 0.2); border: 2px solid rgba(192, 192, 192, 0.3); border-radius: 15px;"/>
     </a>
-    <a href="https://github.com/HanzzKT">
+    <a href="https://github.com/HanzzKT" class="moon-pulse">
       <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HanzzKT&theme=chartreuse-dark&hide_border=true&background=0a0e27&stroke=C0C0C0&ring=E8E8E8&fire=D3D3D3&currStreakLabel=C0C0C0&sideLabels=D3D3D3&dates=A0A0A0&border_radius=15" alt="GitHub Streak" style="box-shadow: 0 8px 32px rgba(192, 192, 192, 0.3), 0 0 8px rgba(192, 192, 192, 0.2); border: 2px solid rgba(192, 192, 192, 0.3); border-radius: 15px;"/>
     </a>
   </p>
@@ -193,7 +260,7 @@ const HanzzKT = {
 
 ## 🏆 GitHub Trophies
 
-<div align="center" style="background: linear-gradient(135deg, #0a0e27 0%, #1a1d3a 100%); padding: 30px; border-radius: 15px; box-shadow: 0 0 30px rgba(192, 192, 192, 0.3); border: 2px solid #4a5568;">
+<div align="center" class="moon-card" style="background: linear-gradient(135deg, #0a0e27 0%, #1a1d3a 100%); padding: 30px; border-radius: 15px;">
   <img src="https://github-profile-trophy.vercel.app/?username=HanzzKT&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" style="filter: drop-shadow(0 0 10px rgba(192, 192, 192, 0.4));"/>
 </div>
 
@@ -214,8 +281,8 @@ const HanzzKT = {
 
 ## 🎯 Current Projects
 
-<div align="center" style="background: linear-gradient(135deg, #0a0e27 0%, #1a1d3a 100%); padding: 30px; border-radius: 15px; box-shadow: 0 0 30px rgba(192, 192, 192, 0.3); border: 2px solid #4a5568;">
-  <a href="https://github.com/HanzzKT/customer-service">
+<div align="center" class="moon-card" style="background: linear-gradient(135deg, #0a0e27 0%, #1a1d3a 100%); padding: 30px; border-radius: 15px;">
+  <a href="https://github.com/HanzzKT/customer-service" class="moon-pulse">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HanzzKT&repo=customer-service&theme=radical&hide_border=false&bg_color=0a0e27&title_color=C0C0C0&icon_color=E8E8E8&text_color=D3D3D3&border_color=4a5568&border_radius=10" alt="Customer Service" style="box-shadow: 0 0 20px rgba(192, 192, 192, 0.3);"/>
   </a>
 </div>
@@ -225,16 +292,16 @@ const HanzzKT = {
 
 ## 🌐 Connect With Me
 
-<div align="center" style="background: linear-gradient(135deg, #0a0e27 0%, #1a1d3a 100%); padding: 30px; border-radius: 15px; box-shadow: 0 0 30px rgba(192, 192, 192, 0.3); border: 2px solid #4a5568;">
+<div align="center" class="moon-card" style="background: linear-gradient(135deg, #0a0e27 0%, #1a1d3a 100%); padding: 30px; border-radius: 15px;">
 
 <p align="center">
-  <a href="https://github.com/HanzzKT">
+  <a href="https://github.com/HanzzKT" class="moon-badge">
     <img src="https://img.shields.io/badge/GitHub-0a0e27?style=for-the-badge&logo=github&logoColor=C0C0C0&border_color=4a5568" alt="GitHub" style="box-shadow: 0 0 15px rgba(192, 192, 192, 0.3); margin: 5px;"/>
   </a>
-  <a href="https://instagram.com/hanzzkt">
+  <a href="https://instagram.com/hanzzkt" class="moon-badge">
     <img src="https://img.shields.io/badge/Instagram-0a0e27?style=for-the-badge&logo=instagram&logoColor=C0C0C0" alt="Instagram" style="box-shadow: 0 0 15px rgba(192, 192, 192, 0.3); margin: 5px;"/>
   </a>
-  <a href="mailto:rayhan@example.com">
+  <a href="mailto:rayhan@example.com" class="moon-badge">
     <img src="https://img.shields.io/badge/Email-0a0e27?style=for-the-badge&logo=gmail&logoColor=C0C0C0" alt="Email" style="box-shadow: 0 0 15px rgba(192, 192, 192, 0.3); margin: 5px;"/>
   </a>
 </p>
@@ -247,7 +314,7 @@ const HanzzKT = {
 
 ## ⚡ Quote
 
-<div align="center" style="background: linear-gradient(135deg, #0a0e27 0%, #1a1d3a 100%); padding: 30px; border-radius: 15px; box-shadow: 0 0 30px rgba(192, 192, 192, 0.3); border: 2px solid #4a5568;">
+<div align="center" class="moon-card moon-pulse" style="background: linear-gradient(135deg, #0a0e27 0%, #1a1d3a 100%); padding: 30px; border-radius: 15px;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Di%20bawah%20cahaya%20bulan%2C%20kode%20menjadi%20puisi%20yang%20indah.&author=HanzzKT" alt="Quote" style="box-shadow: 0 0 20px rgba(192, 192, 192, 0.3); border-radius: 10px;"/>
 </div>
 
