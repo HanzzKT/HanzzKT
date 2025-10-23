@@ -9,7 +9,11 @@
 <br/>
 
 <!-- Moon Theme Villain GIF -->
-<div class="tenor-gif-embed" data-postid="25322604" data-share-method="host" data-aspect-ratio="0.9" data-width="100%"><a href="https://tenor.com/view/moon-knight-humanveil-gif-25322604">Moon Knight Humanveil GIF</a>from <a href="https://tenor.com/search/moon+knight-gifs">Moon Knight GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<p align="center">
+  <img src="assets/tenor.gif" width="500" style="border-radius: 15px; box-shadow: 0 0 30px rgba(139, 92, 246, 0.5);" alt="Moon Knight Animation">
+</p>
+
 <br/>
 
 </div>
