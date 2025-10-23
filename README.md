@@ -8,22 +8,12 @@
 
 <br/>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
-
 <!-- Moon Theme Villain GIF -->
 <p align="center">
-  <img src="https://media.tenor.com/JXB0ASYR9OIAAAAM/moon-knight-humanveil.gif" width="650" alt="Moon Knight Humanveil" style="border-radius: 20px; box-shadow: 0 0 40px rgba(139, 92, 246, 0.7), 0 0 60px rgba(255, 255, 255, 0.3);"/>
+  <img src="https://media1.tenor.com/m/JXB0ASYR9OIAAAAM/moon-knight-humanveil.gif" width="650" alt="Moon Knight Humanveil" style="border-radius: 20px; box-shadow: 0 0 40px rgba(139, 92, 246, 0.7), 0 0 60px rgba(255, 255, 255, 0.3);"/>
 </p>
 
 <br/>
-
-<!-- Moon Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
-  🌙✨🌙
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
-</p>
 
 </div>
 
@@ -255,11 +245,6 @@ const HanzzKT = {
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 
-<!-- Moon Divider -->
-<p align="center">
-  🌙 ✨ 🌑 ✨ 🌙
-</p>
-
 ## ⚡ Quote
 
 <div align="center" style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); padding: 30px; border-radius: 15px; box-shadow: 0 0 30px rgba(139, 92, 246, 0.5); border: 2px solid #8B5CF6;">
@@ -267,13 +252,6 @@ const HanzzKT = {
 </div>
 
 <br/>
-
-<!-- Moon Night Sky -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300"/>
-  🌙
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300"/>
-</p>
 
 <!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1a2e,16213e,0f3460&height=120&section=footer"/>
@@ -284,8 +262,8 @@ const HanzzKT = {
 
 <div align="center">
   
-### 🌙 "In darkness, we code. Under the moon, we conquer." 🌙
+### 🖤 "In darkness, we code. In code, we conquer." 🖤
 
-**Made with 🖤 by HanzzKT** 🌑
+**Made with 🖤 by HanzzKT**
 
 </div>
